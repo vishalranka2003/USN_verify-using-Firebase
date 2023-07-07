@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "663187950374",
+    "project_id": "learningauth-48935",
+    "storage_bucket": "learningauth-48935.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663187950374:android:2e456eda86067f40c94fe7",
+        "android_client_info": {
+          "package_name": "com.example.signup_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663187950374-o51gtqvo5quonb2bnbu3o80u7qgbknbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3KmTuqRRgY4szyveEKKCRh2HjD7qsx5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663187950374-o51gtqvo5quonb2bnbu3o80u7qgbknbi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663187950374-p6mgqc11ck1t8ou3367t8ruohrv3m6kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663187950374:android:4b52730230d2cff9c94fe7",
+        "android_client_info": {
+          "package_name": "io.fireship.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663187950374-o51gtqvo5quonb2bnbu3o80u7qgbknbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3KmTuqRRgY4szyveEKKCRh2HjD7qsx5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663187950374-o51gtqvo5quonb2bnbu3o80u7qgbknbi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "663187950374-p6mgqc11ck1t8ou3367t8ruohrv3m6kk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.fireship.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
